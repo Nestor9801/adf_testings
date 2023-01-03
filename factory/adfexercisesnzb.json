@@ -1,0 +1,9 @@
+{
+	"name": "adfexercisesnzb",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "70cf3d14-156f-448f-aa11-94a140cdc45e",
+		"tenantId": "f94bf4d9-8097-4794-adf6-a5466ca28563"
+	}
+}
